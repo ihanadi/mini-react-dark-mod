@@ -1,0 +1,6 @@
+1. Bootsrap kullaranak colorchange yapabileceğiniz bir tasarım site oluşturun.
+2. Bu siteye router kullanarak iletişim ve hakkımızda sayfası ekleyin
+
+
+Hmm aklıma şu geldi.. Acaba bir object olsaydı, map ile dark yazan yerleri light yapıp tekrar kousaydik? Kim yapar acaba 🤗
+lightTheme & darkTheme adlı iki obje olmasına gerek kalmazdı
